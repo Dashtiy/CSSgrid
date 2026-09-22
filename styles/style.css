@@ -86,3 +86,11 @@ height: 100vh;
     background-color: #9a6401;
     display: flex;
 }
+
+.footer h1 {
+    font-size: 7.1vh;
+    font-weight: 700;
+    font-family: helvetica, arial, sans-serif;
+    line-height: 1;
+    letter-spacing: -0;
+    color: #060018;
