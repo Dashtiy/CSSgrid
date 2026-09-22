@@ -68,3 +68,21 @@ height: 100vh;
 .box-8  { background-color: #09f95d; }
 .box-9  { background-color: #eaff05; }
 .box-10 { background-color: #fe0202; }
+
+.right-bottom {
+  justify-content: flex-end;
+  display: flex;
+}
+
+.box-11 {
+    width: calc(50% - 0.83vw);
+    background-color: #ff00f5;
+}
+
+.footer {
+    padding-left: 1.66vw;
+    align-items: center;
+    grid-column: 1/4;
+    background-color: #9a6401;
+    display: flex;
+}
